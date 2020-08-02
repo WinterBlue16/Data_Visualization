@@ -17,3 +17,5 @@ df2 = pd.DataFrame(data={'추가 메뉴':['치즈', '스팸', '소시지', '계�
  ax[1].bar(df2['추가 메뉴'], df2['선호도'], color='blue')
 
  plt.show()
+
+ # 색상 참고 : https://codetorial.net/matplotlib/set_color.html
